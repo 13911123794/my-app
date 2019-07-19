@@ -1,0 +1,6 @@
+export const GETNAVDATA = 'GETNAVDATA';
+
+export const ADDTOPNAV = 'ADDTOPNAV';
+export const REMOVETOPNAV = 'REMOVETOPNAV';
+
+export const GETUSERINFO = 'GETUSERINFO';
